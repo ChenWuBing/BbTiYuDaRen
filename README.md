@@ -1,5 +1,5 @@
-# 先锋足球-商家端
+# 小秘密相册
 
-We are an app that provides online venues and online bookings for football venues. Football venues can place their football venues on our platform for more football fans or organizations to book their football venues. At present, our platform has more than 500 plus football venues, and we hope that more football venues can join us, let us develop together and make progress together.
+We are a platform dedicated to the privacy of users' albums. Users can protect their privacy photos through our app to prevent others from being sneaked. Our app is safe and secure.
 
-If you have any questions, please contact the technical support email: peterwebster3201@gmail.com, thank you for your support.
+If you have any questions, please contact the technical support email: AngeliqueFaiga59@gmail.com, thank you for your support.
