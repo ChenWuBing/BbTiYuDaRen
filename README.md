@@ -1,5 +1,4 @@
-# 小秘密相册
+# 直播吧-最新赛事平台
 
-We are a platform dedicated to the privacy of users' albums. Users can protect their privacy photos through our app to prevent others from being sneaked. Our app is safe and secure.
 
-If you have any questions, please contact the technical support email: AngeliqueFaiga59@gmail.com, thank you for your support.
+If you have any questions, please contact the technical support email: xiangyupao@foxmail.com, thank you for your support.
