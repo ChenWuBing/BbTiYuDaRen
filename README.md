@@ -1,6 +1,6 @@
 # 直播吧--先锋足球赛事
 
-We are a platform dedicated to broadcasting the latest football matches. For each football match in progress, a dedicated host will describe the situation on the pitch in writing. Our platform data is authoritative and guaranteed to be the same as the actual situation. Friends who like to watch football matches can get their desired match records in real time on our platform.
+我們是致力於廣播最新足球比賽的平台。 對於每場進行中的足球比賽，專門的主持人都會以書面形式描述球場上的情況。 我們的平台數據是權威的，保證與實際情況相同。 喜歡看足球比賽的朋友可以在我們的平台上實時獲得他們想要的比賽記錄。
 
-If you have any questions, please contact the technical support email: wlwdhhh@126.com, thank you for your support.
+如有任何疑問，請聯繫技術支持電子郵件：wlwdhhh@126.com，感謝您的支持。
 
