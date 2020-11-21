@@ -1,6 +1,6 @@
-# 看球吧--运动专选
+# Brothers to join hands Sports
 
-我们是一个专门提供各类体育运动相关的商品平台，我们平台有跑步机、精品哑铃、智能跳绳等各类常用运动器材。平台质量有保证，用户不用担心商品质量问题。售后、客服等服务齐全，希望广大用户用的安心放心。
+We are a platform that specializes in providing all kinds of sports related commodities. Our platform has all kinds of commonly used sports equipment. The platform quality is guaranteed, and users don’t have to worry about product quality. After-sales, customer service and other services are complete, and we hope that users can rest assured.
 
-如有任何疑问，请联系技术支持电子邮件：jianguan20042u@163.com，感谢您的支持。
+If you have any questions, please contact the technical support email: pridgettxluxml@yahoo.com, thank you for your support.
 
