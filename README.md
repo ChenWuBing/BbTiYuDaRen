@@ -1,6 +1,5 @@
-# Fire Cube Football
+# 球琛体育--专业篮球课程
 
-We are a platform that specializes in providing all kinds of sports related commodities. Our platform has all kinds of commonly used sports equipment. The platform quality is guaranteed, and users don’t have to worry about product quality. After-sales, customer service and other services are complete, and we hope that users can rest assured.
-
-If you have any questions, please contact the technical support email: qshqbblframhjq@hotmail.com, thank you for your support.
+我们是一个专门预约篮球课程的平台，我们专门提供各项篮球课程，可以对您的篮球技能进行专项强化，让您的篮球技巧全方位的完善。我们教室都是篮球界的知名运动员。篮球技巧也是专业的、规范化的。
+如您有任何问题可以联系我们的技术支持邮箱：xuanaizxc@icloud.com，感谢您的支持。
 
